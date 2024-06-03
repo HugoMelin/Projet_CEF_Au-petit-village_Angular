@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+.bg-second {
+    background-color: #F9D0A3;
+}
+
+.active {
+    border-bottom: solid 2px #DA001E;
+}
+
+.nav-link:hover {
+    color: #DA001E;
+}
