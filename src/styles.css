@@ -1,4 +1,32 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: "Bubbleboddy_neue";
+    src: url("/assets/fonts/bubbleboddy_neue/bubbleboddyneue-regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Bubbleboddy_neue";
+    font-weight: 600;
+    src: url("/assets/fonts/bubbleboddy_neue/BubbleboddyNeue-Bold.ttf") format("truetype");
+}
+
+
+@font-face {
+    font-family: "Confortaa";
+    src: url("/assets/fonts/comfortaa/Comfortaa-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Confortaa";
+    font-weight: 600;
+    src: url("/assets/fonts/comfortaa/Comfortaa-Bold.ttf") format("truetype");
+}
+
+* {
+    font-family: "Confortaa";
+    color: #151217 ;
+}
+
 .bg-second {
     background-color: #F9D0A3;
 }

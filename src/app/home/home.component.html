@@ -1,1 +1,9 @@
-<p>home works!</p>
+<main>
+    <img src="assets/img/about-bg.jpg" width="100%" height="500" style="object-fit: cover;">
+
+    <div class="container">
+        <app-titre-h1 titre="Au petit village"/>
+        <app-titre-h2 class="ms-2" [titre]="about.titre"/>
+        <p *ngFor="let paragraphe of about.paragraphes">{{ paragraphe }}</p>
+    </div>
+</main>
