@@ -1,1 +1,13 @@
-<p>about works!</p>
+<div class="container my-4">
+    <app-titre-h1 titre="A propos de nous"/>
+    <div class="row align-items-center my-3">
+        <div class="col-12 col-sm-6">
+            <app-titre-h2 [titre]="about.titre"/>
+            <p *ngFor="let paragraphe of about.paragraphes">{{ paragraphe }}</p>
+            <a routerLink="" class="btn btn-outline-warning">Voir nos produits</a>
+        </div>
+        <div class="col-12 col-sm-6">
+            <img [src]="about.image.src" [alt]="about.image.alt" width="100%">
+        </div>
+    </div>
+</div>
