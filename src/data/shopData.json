@@ -1,0 +1,160 @@
+{
+    "products": [
+        {
+            "id": "asterixXL",
+            "title": "Figurine Astérix XL",
+            "shortDesc": "Découvrez la splendide et très grande figurine de collection Astérix ! (30 cm de hauteur)",
+            "desc": "Retrouvez une figurine d'Astérix le Gaulois fabriquée en vinyle aux dimensions grandissimes !",
+            "tech": {
+                "fabricant" : "plastoy",
+                "matiere": "vinyle",
+                "dimensions": "30 cm hauteur"
+            },
+            "prix": 44.90,
+            "img": "https://boutique.asterix.com/445-pdt_540/figurine-asterix-xxl.jpg"
+        },
+        {
+            "id": "idefixXXL",
+            "title": "Figurine Idéfix XXL",
+            "shortDesc": "Découvrez la superbe et très grande figurine de collection Idéfix ! (30 cm de hauteur)",
+            "desc": "Retrouvez une figurine d'Idéfix dans un format magistrale fabriquée en PVC ! Du haut de ces 30 cm, l'adorable mascotte du village n'a jamais été aussi grande.",
+            "tech": {
+                "fabricant" : "plastoy",
+                "matiere": "PVC",
+                "dimensions": "30 cm hauteur"
+            },
+            "prix": 49.90,
+            "img": "https://boutique.asterix.com/447-pdt_540/figurine-idefix-xxl.jpg"
+        },
+        {
+            "id": "asterixBook",
+            "title": "Figurine Astérix et un livre La Galerie des Personnages",
+            "shortDesc": "Découvrez une superbe figurine d'Astérix, le plus courageux des Gaulois, accompagnée d'un livre !",
+            "desc": "Craquez pour cette belle figurine en plastique de 9cm aux finitions soignées ! Poursuivez vos aventures dans l’univers des irréductibles Gaulois avec le livre d’Astérix ! Centré sur l’album Astérix et le chaudron, ce livre La Galerie des personnages, au format 20 x 20 cm avec une couverture rigide, révèle au lecteur la création et l’évolution du personnage d’Astérix à travers les années. Il relate également la rencontre de René Goscinny et d’Albert Uderzo, deux auteurs de génie, grâce à des documents exclusifs.",
+            "tech": {
+                "fabricant" : "Hachette Collections",
+                "matiere": "Plastique - Peinte à la main – détails fidèles",
+                "dimensions": "Hauteur figurine : 9cm"
+            },
+            "prix": 20.00,
+            "img": "https://boutique.asterix.com/281-pdt_540/asterix-livre.jpg"
+        },
+        {
+            "id": "obelixBook",
+            "title": "Figurine Obélix et Idéfix et un livre La Galerie des PersonnagesFigurine Obélix et Idéfix et un livre La Galerie des Personnages",
+            "shortDesc": "Découvrez une superbe figurine d’Obélix tenant Idéfix dans ses bras accompagnée d'un livre ! ",
+            "desc": "Craquez pour cette belle figurine en plastique de 11cm aux finitions soignées ! Poursuivez vos aventures dans l’univers des irréductibles Gaulois avec un livre ! Ce livre La Galerie des personnages, au format 20 x 20 cm avec une couverture rigide, révèle au lecteur la création et l’évolution du personnage d’Obélix à travers les années. N’oublions pas bien sûr l’histoire du petit chien Idéfix ! Enfin, découvrez la jeunesse de René Goscinny et d’Albert Uderzo grâce à des documents exclusifs !",
+            "tech": {
+                "fabricant" : "Hachette Collections",
+                "matiere": "Plastique - peinte à la main",
+                "dimensions": "Hauteur figurine: 11 cm"
+            },
+            "prix": 20.00,
+            "img": "https://boutique.asterix.com/279-pdt_540/obelix-livre.jpg"
+        },
+        {
+            "id": "abraracourcixBook",
+            "title": "Figurine Abraracourcix et un livre La Galerie des Personnages",
+            "shortDesc": "Découvrez une superbe figurine d'Abraracourcix !",
+            "desc": "Craquez pour cette belle figurine en plastique de 9 cm aux finitions soignées !Poursuivez vos aventures dans l’univers des irréductibles Gaulois avec le livre d’Astérix ! Centré sur l’album Le combat des chefs, ce livre La Galerie des personnages, au format 20 x 20 cm avec une couverture rigide, révèle au lecteur la création et l’évolution du personnage d’Abraracourcix à travers les années. Saviez-vous qu'avant de devenir humoriste, René Goscinny a développé très jeune un talent certain de dessinateur? Découvrez en exclusivité ses dessins dans ce livre!",
+            "tech": {
+                "fabricant" : "Hachette Collections",
+                "matiere": "Plastique - Peinte à la main - Détails fidèles",
+                "dimensions": "Hauteur figurine: 9 cm"
+            },
+            "prix": 20.00,
+            "img": "https://boutique.asterix.com/397-pdt_540/figurine-panoramix-et-un-livre-la-galerie-des-personnages.jpg"
+        },
+        {
+            "id": "assurancetourixBook",
+            "title": "Figurine Assurancetourix et un livre La Galerie des Personnages",
+            "shortDesc": "Découvrez une superbe figurine Assurancetourix !",
+            "desc": "Craquez pour cette belle figurine en plastique de 10 cm aux finitions soignées ! Poursuivez vos aventures dans l’univers des irréductibles Gaulois avec le livre d’Astérix ! Centré sur l’album Astérix et les Normands, ce livre La Galerie des personnages, au format 20 x 20 cm avec une couverture rigide, révèle au lecteur la création et l’évolution du personnage d’Assurancetourix à travers les années. Découvrez également les coulisses de la création de l'univers Astérix grâce aux dessins et documents exclusifs !",
+            "tech": {
+                "fabricant" : "Hachette Collections",
+                "matiere": "Plastique - Peinte à la main - Détails fidèles",
+                "dimensions": "Hauteur figurine: 10 cm"
+            },
+            "prix": 20.00,
+            "img": "https://boutique.asterix.com/390-pdt_540/figurine-panoramix-et-un-livre-la-galerie-des-personnages.jpg"
+        },
+        {
+            "id": "panoramixBook",
+            "title": "Figurine Panoramix et un livre La Galerie des Personnages",
+            "shortDesc": "Découvrez une superbe figurine Panoramix !",
+            "desc": "Craquez pour cette belle figurine en plastique de 9 cm aux finitions soignées ! Poursuivez vos aventures dans l’univers des irréductibles Gaulois avec le livre d’Astérix ! Centré sur l’album Astérix et les Goths, ce livre La Galerie des personnages, au format 20 x 20 cm avec une couverture rigide, révèle au lecteur la création et l’évolution du personnage de Panoramix à travers les années. Saviez-vous que René Goscinny et Albert Uderzo ont participé à la création du magazine de bande dessinée à succès Pilote, dans lequel a été publié la première planche des Aventures d'Astérix le Gaulois ? Découvrez les documents exclusifs à propos de ce journal !",
+            "tech": {
+                "fabricant" : "Hachette Collections",
+                "matiere": "Plastique - Peinte à la main - Détails fidèles",
+                "dimensions": "Hauteur figurine: 9 cm"
+            },
+            "prix": 20.00,
+            "img": "https://boutique.asterix.com/401-pdt_540/figurine-panoramix-et-un-livre-la-galerie-des-personnages.jpg"
+        },
+        {
+            "id": "plastoyTubo",
+            "title": "Plastoy - Tubo - Le village Gaulois",
+            "shortDesc": "Retrouvez l'univers d'Astérix avec ces 7 figurines du village en plastique dans un Tubo Plastoy. ",
+            "desc": "Voici un impressionnant ensemble de figurines Plastoy qui inclut les personnages emblématiques du village d'Astérix,incluant Obélix, son fidèle allié Idéfix, le druide Panoramix, la magnifique Falbala, le bruyant Assurancetourix, le nerveux Abraracourcix et bien évidemment le célèbre Astérix. Les figurines sont d'une hauteur d'environ 7 cm.",
+            "tech": {
+                "fabricant" : "Plastoy",
+                "matiere": "Plastique",
+                "dimensions": "32 x 5.5 x 5.5 cm"
+            },
+            "prix": 29.90,
+            "img": "https://boutique.asterix.com/335-pdt_540/tubo-plastoy.jpg"
+        },
+        {
+            "id": "asterixPaf",
+            "title": "Figurine Astérix - PAF!",
+            "shortDesc": "Retrouvez Astérix en plein combat avec un légionnaire romain.",
+            "desc": "Astérix en plein combat avec un légionnaire romain. La figurine est inspirée du jeu vidéo ''Astérix & Obélix, Baffez-les tous !''. On retrouve ''PAF !'' dans une bulle, comme dans les véritables cases de la bandes dessinée.",
+            "tech": {
+                "fabricant" : "Collectoys",
+                "matiere": "Plastique",
+                "dimensions": "13,8 x 10 x 26,5 cm"
+            },
+            "prix": 39.95,
+            "img": "https://boutique.asterix.com/48-pdt_540/asterix-paf.jpg"
+        },
+        {
+            "id": "idefixCoeur",
+            "title": "Figurine Idéfix - Bulle : cœur",
+            "shortDesc": "Retrouvez Idéfix, la mascotte du village gaulois !",
+            "desc": "C'est un chien blanc, le fidèle compagnon d'Obélix. Ce petit chien à la curieuse particularité de pleurer quand on coupe un arbre.",
+            "tech": {
+                "fabricant" : "Collectoys",
+                "matiere": "Résine",
+                "dimensions": "Hauteur 18 cm"
+            },
+            "prix": 39.95,
+            "img": "https://boutique.asterix.com/42-pdt_540/figurine-de-collection-bulle-idefix.jpg"
+        },
+        {
+            "id": "asterixEnerve",
+            "title": "Figurine Astérix - Bulle : ça m'énerve",
+            "shortDesc": "Retrouvez Astérix énervé.",
+            "desc": "Qu'est-ce qui le mets dans cet état ?",
+            "tech": {
+                "fabricant" : "Collectoys",
+                "matiere": "Résine",
+                "dimensions": "15 x 23 cm"
+            },
+            "prix": 48.99,
+            "img": "https://boutique.asterix.com/35-pdt_540/figurine-de-collection-bulle-asterix-ca-m-enerve.jpg"
+        },
+        {
+            "id": "obelixBoude",
+            "title": "Figurine Obélix - Bulle : oui je boude, et alors ?",
+            "shortDesc": "Retrouvez Obélix pas content.",
+            "desc": "Obélix qui boude, qu'est ce qui se passe ? Comment pouvons-nous l'aider ? de la potion magique ? des sangliers ?",
+            "tech": {
+                "fabricant" : "Collectoys",
+                "matiere": "Résine",
+                "dimensions": "Hauteur: 18,5 cm"
+            },
+            "prix": 48.99,
+            "img": "https://boutique.asterix.com/169-pdt_540/figurine-de-collection-bulle-obelix-oui-je-boude-et-alors.jpg"
+        }
+    ]
+}
