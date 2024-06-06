@@ -1,4 +1,14 @@
-<app-titre-h3 titre="Test"/>
-<p *ngFor="let item of productList">
-    {{item.shortDesc}}
-</p>
+<app-titre-h3 id="boutique" titre="Notre boutique !"/>
+<div class="row my-3">
+    <div *ngFor="let item of productList" class="col-12 col-md-6 col-lg-4 col-xl-3 my-3">
+        <div class="card h-100 mx-auto" style="width: 18rem;">
+            <img [src]="item.img" class="card-img-top" [alt]="item.title">
+            <div class="card-body">
+              <h5 class="card-title text-center">{{ item.title }}</h5>
+              <p class="card-text">{{ item.shortDesc }}</p>
+              <p class="card-text text-end">{{ item.prix }} €</p>
+              <a href="#" class="btn btn-primary">Découvrir plus</a>
+            </div>
+          </div>
+    </div>
+</div>

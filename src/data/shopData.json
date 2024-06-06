@@ -10,7 +10,7 @@
                 "matiere": "vinyle",
                 "dimensions": "30 cm hauteur"
             },
-            "prix": 44.90,
+            "prix": "44.90",
             "img": "https://boutique.asterix.com/445-pdt_540/figurine-asterix-xxl.jpg"
         },
         {
@@ -23,7 +23,7 @@
                 "matiere": "PVC",
                 "dimensions": "30 cm hauteur"
             },
-            "prix": 49.90,
+            "prix": "49.90",
             "img": "https://boutique.asterix.com/447-pdt_540/figurine-idefix-xxl.jpg"
         },
         {
@@ -36,7 +36,7 @@
                 "matiere": "Plastique - Peinte à la main – détails fidèles",
                 "dimensions": "Hauteur figurine : 9cm"
             },
-            "prix": 20.00,
+            "prix": "20.00",
             "img": "https://boutique.asterix.com/281-pdt_540/asterix-livre.jpg"
         },
         {
@@ -49,7 +49,7 @@
                 "matiere": "Plastique - peinte à la main",
                 "dimensions": "Hauteur figurine: 11 cm"
             },
-            "prix": 20.00,
+            "prix": "20.00",
             "img": "https://boutique.asterix.com/279-pdt_540/obelix-livre.jpg"
         },
         {
@@ -62,7 +62,7 @@
                 "matiere": "Plastique - Peinte à la main - Détails fidèles",
                 "dimensions": "Hauteur figurine: 9 cm"
             },
-            "prix": 20.00,
+            "prix": "20.00",
             "img": "https://boutique.asterix.com/397-pdt_540/figurine-panoramix-et-un-livre-la-galerie-des-personnages.jpg"
         },
         {
@@ -75,7 +75,7 @@
                 "matiere": "Plastique - Peinte à la main - Détails fidèles",
                 "dimensions": "Hauteur figurine: 10 cm"
             },
-            "prix": 20.00,
+            "prix": "20.00",
             "img": "https://boutique.asterix.com/390-pdt_540/figurine-panoramix-et-un-livre-la-galerie-des-personnages.jpg"
         },
         {
@@ -88,7 +88,7 @@
                 "matiere": "Plastique - Peinte à la main - Détails fidèles",
                 "dimensions": "Hauteur figurine: 9 cm"
             },
-            "prix": 20.00,
+            "prix": "20.00",
             "img": "https://boutique.asterix.com/401-pdt_540/figurine-panoramix-et-un-livre-la-galerie-des-personnages.jpg"
         },
         {
@@ -101,7 +101,7 @@
                 "matiere": "Plastique",
                 "dimensions": "32 x 5.5 x 5.5 cm"
             },
-            "prix": 29.90,
+            "prix": "29.90",
             "img": "https://boutique.asterix.com/335-pdt_540/tubo-plastoy.jpg"
         },
         {
@@ -114,7 +114,7 @@
                 "matiere": "Plastique",
                 "dimensions": "13,8 x 10 x 26,5 cm"
             },
-            "prix": 39.95,
+            "prix": "39.95",
             "img": "https://boutique.asterix.com/48-pdt_540/asterix-paf.jpg"
         },
         {
@@ -127,7 +127,7 @@
                 "matiere": "Résine",
                 "dimensions": "Hauteur 18 cm"
             },
-            "prix": 39.95,
+            "prix": "39.95",
             "img": "https://boutique.asterix.com/42-pdt_540/figurine-de-collection-bulle-idefix.jpg"
         },
         {
@@ -140,7 +140,7 @@
                 "matiere": "Résine",
                 "dimensions": "15 x 23 cm"
             },
-            "prix": 48.99,
+            "prix": "48.99",
             "img": "https://boutique.asterix.com/35-pdt_540/figurine-de-collection-bulle-asterix-ca-m-enerve.jpg"
         },
         {
@@ -153,7 +153,7 @@
                 "matiere": "Résine",
                 "dimensions": "Hauteur: 18,5 cm"
             },
-            "prix": 48.99,
+            "prix": "48.99",
             "img": "https://boutique.asterix.com/169-pdt_540/figurine-de-collection-bulle-obelix-oui-je-boude-et-alors.jpg"
         }
     ]
