@@ -5,11 +5,12 @@ import { TitreH3Component } from '../titres/titre-h3/titre-h3.component';
 import { FormsModule } from '@angular/forms';
 import { FiltrePipe } from '../pipes/filtre.pipe';
 import { SortPipe } from '../pipes/sort.pipe';
+import { RouterLink } from '@angular/router';
 
 @Component({
   selector: 'app-shop',
   standalone: true,
-  imports: [NgFor, TitreH3Component, FormsModule, FiltrePipe, SortPipe],
+  imports: [NgFor, TitreH3Component, FormsModule, FiltrePipe, SortPipe, RouterLink],
   templateUrl: './shop.component.html',
   styleUrl: './shop.component.css'
 })
