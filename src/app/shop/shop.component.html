@@ -24,7 +24,7 @@
               <h5 class="card-title text-center">{{ item.title }}</h5>
               <p class="card-text">{{ item.shortDesc }}</p>
               <p class="card-text text-end">{{ item.prix }} €</p>
-              <a href="#" class="btn w-auto">Découvrir plus</a>
+              <a [routerLink]="'product/'+item.id" class="btn w-auto">Découvrir plus</a>
             </div>
           </div>
     </div>

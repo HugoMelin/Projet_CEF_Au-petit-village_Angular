@@ -1,0 +1,35 @@
+<div class="container my-3 text-center">
+    <div class="row">
+        <app-titre-h2 [titre]="produit.title"/>
+    </div>
+    <div class="row">
+        <div class="col-12 col-lg-6">
+            <img [src]="produit.img" [alt]="produit.title" class="img-fluid img-thumbnail mx-auto" style="width: 85%;">
+        </div>
+        <div class="col-12 col-lg-6 my-auto">
+            <p>{{ produit.shortDesc }}</p>
+            <p class="fs-1" style="font-weight: 600;">{{ produit.prix }} €</p>
+            <p>Fabricant : <span class="text-uppercase">{{ produit.tech.fabricant }}</span></p>
+        </div>
+    </div>
+    <div class="row my-3">
+        <div class="col-10 mx-auto rounded py-3" style="background-color: #F9D0A3;">
+            <app-titre-h3 titre="Description"/>
+            <p>{{ produit.desc }}</p>
+
+            <app-titre-h3 titre="Fiche Technique"/>
+            <div class="col-10 bg-white mx-auto my-1 p-3 pb-1 rounded">
+                <p class="text-start d-inline-block w-50">Fabricant :</p>
+                <p class="text-end d-inline-block w-50">{{ produit.tech.fabricant }}</p>
+            </div>
+            <div class="col-10 bg-white mx-auto my-1 p-3 pb-1 rounded">
+                <p class="text-start d-inline-block w-50">Matière :</p>
+                <p class="text-end d-inline-block w-50">{{ produit.tech.matiere }}</p>
+            </div>
+            <div class="col-10 bg-white mx-auto my-1 p-3 pb-1 rounded">
+                <p class="text-start d-inline-block w-50">Dimensions :</p>
+                <p class="text-end d-inline-block w-50">{{ produit.tech.dimensions }}</p>
+            </div>
+        </div>
+    </div>
+</div>
