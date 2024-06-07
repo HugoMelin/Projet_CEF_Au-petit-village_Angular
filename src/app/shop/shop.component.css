@@ -2,3 +2,15 @@ h5 {
     font-family: "Bubbleboddy_neue", sans-serif;
     font-weight: 600;
 }
+
+.btn {
+    --bs-btn-bg: #FDD90B;
+    --bs-btn-border-width: var(--bs-border-width);
+    --bs-btn-border-color: #151217;
+    --bs-btn-hover-border-color: #151217;
+    --bs-btn-hover-bg: white;
+}
+
+.card {
+    --bs-card-bg: #F9D0A3;
+}
